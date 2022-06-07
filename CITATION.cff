@@ -1,0 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'CIST: A Serious Game for Hardware Supply Chain'
+message: 'If you use this software, please cite it as below'
+type: software
+authors:
+  - name-particle: Stephen
+    family-names: Hart
+    name-suffix: Dr
+    email: stephen.hart@soton.ac.uk
+    affiliation: University of Southampton
+    orcid: 'https://orcid.org/0000-0001-5108-7116'
