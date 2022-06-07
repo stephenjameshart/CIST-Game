@@ -1,0 +1,89 @@
+fileFormatVersion: 2
+guid: 9865ba9674d531747a96db86a307c6da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CISTInfo: {instanceID: 0}
+  - GameInformation: {instanceID: 0}
+  - Button01Information: {instanceID: 0}
+  - Step01Information: {instanceID: 0}
+  - Step02Information: {instanceID: 0}
+  - Step03Information: {instanceID: 0}
+  - Step04Information: {instanceID: 0}
+  - Step05Information: {instanceID: 0}
+  - Step06Information: {instanceID: 0}
+  - NewGame: {instanceID: 0}
+  - Panel: {instanceID: 0}
+  - PanelHelp: {instanceID: 0}
+  - GameInfoAttackMessage: {instanceID: 0}
+  - GameStep01Message: {instanceID: 0}
+  - CtextScore: {instanceID: 0}
+  - ItextScore: {instanceID: 0}
+  - StextScore: {instanceID: 0}
+  - TtextScore: {instanceID: 0}
+  - AlltextScore: {instanceID: 0}
+  - NoAttacksLeft: {instanceID: 0}
+  - buttonAns: {instanceID: 0}
+  - Stage01C05: {instanceID: 0}
+  - Stage01C06: {instanceID: 0}
+  - Stage01C07: {instanceID: 0}
+  - Stage01C08: {instanceID: 0}
+  - Stage01C09: {instanceID: 0}
+  - Stage01C10: {instanceID: 0}
+  - Stage01C11: {instanceID: 0}
+  - Stage01C12: {instanceID: 0}
+  - Stage01C13: {instanceID: 0}
+  - Stage02C05: {instanceID: 0}
+  - Stage02C06: {instanceID: 0}
+  - Stage02C07: {instanceID: 0}
+  - Stage02C08: {instanceID: 0}
+  - Stage02C09: {instanceID: 0}
+  - Stage02C10: {instanceID: 0}
+  - Stage02C11: {instanceID: 0}
+  - Stage02C12: {instanceID: 0}
+  - Stage02C13: {instanceID: 0}
+  - Stage03C05: {instanceID: 0}
+  - Stage03C06: {instanceID: 0}
+  - Stage03C07: {instanceID: 0}
+  - Stage03C08: {instanceID: 0}
+  - Stage03C09: {instanceID: 0}
+  - Stage03C10: {instanceID: 0}
+  - Stage03C11: {instanceID: 0}
+  - Stage03C12: {instanceID: 0}
+  - Stage03C13: {instanceID: 0}
+  - Stage04C05: {instanceID: 0}
+  - Stage04C06: {instanceID: 0}
+  - Stage04C07: {instanceID: 0}
+  - Stage04C08: {instanceID: 0}
+  - Stage04C09: {instanceID: 0}
+  - Stage04C10: {instanceID: 0}
+  - Stage04C11: {instanceID: 0}
+  - Stage04C12: {instanceID: 0}
+  - Stage04C13: {instanceID: 0}
+  - Stage05C05: {instanceID: 0}
+  - Stage05C06: {instanceID: 0}
+  - Stage05C07: {instanceID: 0}
+  - Stage05C08: {instanceID: 0}
+  - Stage05C09: {instanceID: 0}
+  - Stage05C10: {instanceID: 0}
+  - Stage05C11: {instanceID: 0}
+  - Stage05C12: {instanceID: 0}
+  - Stage05C13: {instanceID: 0}
+  - Stage06C05: {instanceID: 0}
+  - Stage06C06: {instanceID: 0}
+  - Stage06C07: {instanceID: 0}
+  - Stage06C08: {instanceID: 0}
+  - Stage06C09: {instanceID: 0}
+  - Stage06C10: {instanceID: 0}
+  - Stage06C11: {instanceID: 0}
+  - Stage06C12: {instanceID: 0}
+  - Stage06C13: {instanceID: 0}
+  - GameDefenceAllDMessage: {instanceID: 0}
+  - AttackAnswerPanel: {instanceID: 0}
+  - AdminButtons: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
